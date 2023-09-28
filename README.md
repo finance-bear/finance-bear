@@ -34,4 +34,8 @@ Data cleaning and wrangling, Data visualisation, Data analysis, Relational datab
 
 
 ### 📩 Contact
-<img align="left" alt="Java" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[LinkedIn](https://www.linkedin.com/in/kieutrinhbi/)
+<div> 
+  <a href = "mailto:kieutrinh.finance@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kieutrinhbi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
