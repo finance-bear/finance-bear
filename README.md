@@ -25,6 +25,13 @@ Data cleaning and wrangling, Data visualisation, Data analysis, Relational datab
   <br />
 <br />
 
+---
+
+### ⏱ Currently
+- Taking a course about Business Intelligence on Coursera.
+- Working on more Excel, SQL and Power BI project to enhance my skills.
+- Starting to learn Python.
+
 
 ### 📩 Contact
 <img align="left" alt="Java" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[LinkedIn](www.linkedin.com/in/kieutrinhbi)
