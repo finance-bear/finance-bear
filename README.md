@@ -28,8 +28,8 @@ Data cleaning and wrangling, Data visualisation, Data analysis, Relational datab
 ---
 
 ### ⏱ Currently
-- Taking a course about Business Intelligence on Coursera.
-- Working on more Excel, SQL and Power BI project to enhance my skills.
+- Taking a course about Business Intelligence on Coursera for more insightful ideas.
+- Working on my next Excel, SQL and Power BI projects to enhance my skills.
 - Starting to learn Python.
 
 
