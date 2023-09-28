@@ -12,7 +12,7 @@ Click [here](https://github.com/finance-bear?tab=repositories) to see all my int
 
 
 ### 🎱 Skills
-Data cleaning and wrangling, Data visualisation, Data analysis, Relational databases, Dashboard design and development
+Data cleaning and wrangling, Data visualisation, Data analysis, Relational databases, Dashboard design and development,...
 
 
 ### 🛠 Languages and Tools
@@ -34,4 +34,4 @@ Data cleaning and wrangling, Data visualisation, Data analysis, Relational datab
 
 
 ### 📩 Contact
-<img align="left" alt="Java" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[LinkedIn](www.linkedin.com/in/kieutrinhbi)
+<img align="left" alt="Java" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[LinkedIn](https://www.linkedin.com/in/kieutrinhbi/)
