@@ -1,5 +1,5 @@
 ### Trinh Tran
-**UEH Finance Undergraduate | Data Analyst Enthusiast**
+**UEH Finance Undergraduate | Data Analysis Enthusiast**
 
 Welcome to Kieu Trinh's portfolio, an aspiring Data Analyst whose domain is Finance!
 My drive is to transform businesses with data-driven solutions, and I use this portfolio
