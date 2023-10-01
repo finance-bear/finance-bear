@@ -13,7 +13,6 @@ Click [here](https://github.com/finance-bear?tab=repositories) to see all my int
 
 ### 🎱 Skills
 Soft skills: Curiosity, Learning Mindset, Working under Pressure, Critical Thinking,...
-
 Technical skills: Statistics, Data exploration and analytics, Data Storytelling and Reporting,...
 
 
