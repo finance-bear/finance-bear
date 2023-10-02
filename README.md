@@ -22,12 +22,11 @@ Technical skills: Statistics, Data Exploration and Analytics, Data Storytelling 
   <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" / >
   <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="left" alt="Java" width="100px" style="padding-right:20px;" src= "https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" />
-  <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" / >
 
   <br />
 <br />
 
----
+
 
 ### ⏱ Currently
 - Taking a course about Business Intelligence on Coursera for more insightful ideas.
