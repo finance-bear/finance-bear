@@ -12,9 +12,9 @@ Click [here](https://github.com/finance-bear?tab=repositories) to see all my int
 
 
 ### 🎱 Skills
-Soft skills: Curiosity, Learning Mindset, Working under Pressure, Critical Thinking,...
+Soft skills: Curiosity, Learning Mindset, Working Under Pressure, Critical Thinking,...
 
-Technical skills: Statistics, Data exploration and analytics, Data Storytelling and Reporting,...
+Technical skills: Statistics, Data Exploration and Analytics, Data Storytelling and Reporting,...
 
 
 ### 🛠 Languages and Tools
@@ -31,7 +31,7 @@ Technical skills: Statistics, Data exploration and analytics, Data Storytelling 
 
 ### ⏱ Currently
 - Taking a course about Business Intelligence on Coursera for more insightful ideas.
-- Working on my next Excel, SQL and Power BI projects to enhance my skills.
+- Working on my next Excel and SQL projects to enhance my skills.
 - Starting to learn Python.
 
 
