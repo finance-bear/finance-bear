@@ -8,13 +8,13 @@ Join me on this exciting journey and let's unlock the potential of data together
 
 
 ### 📂 Projects
-Click [here](https://github.com/finance-bear?tab=repositories) to see all my interesting projects in my repositories so far.
+- Click [here](https://github.com/finance-bear?tab=repositories) to see all my interesting projects in my repositories so far.
 
 
 ### 🎱 Skills
-Soft skills: Curiosity, Learning Mindset, Working Under Pressure, Critical Thinking,...
+- Soft skills: Curiosity, Learning Mindset, Working Under Pressure, Critical Thinking,...
 
-Technical skills: Statistics, Data Exploration and Analytics, Data Storytelling and Reporting,...
+- Technical skills: Statistics, Data Exploration and Analytics, Data Storytelling and Reporting,...
 
 
 ### 🛠 Languages and Tools
